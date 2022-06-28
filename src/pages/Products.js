@@ -7,16 +7,16 @@ const Products = () => {
 
 			<ul>
 				<li>
-					<Link to='products/p1'>PRODUCT 1</Link>
+					<Link to='/products/p1'>PRODUCT 1</Link>
 				</li>
 				<li>
-					<Link to='products/p2'>PRODUCT 2 </Link>
+					<Link to='/products/p2'>PRODUCT 2 </Link>
 				</li>
 				<li>
-					<Link to='products/p3'>PRODUCT 3</Link>
+					<Link to='/products/p3'>PRODUCT 3</Link>
 				</li>
 				<li>
-					<Link to='products/p4'>PRODUCT 4</Link>
+					<Link to='/products/p4'>PRODUCT 4</Link>
 				</li>
 			</ul>
 		</section>
